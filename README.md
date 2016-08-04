@@ -13,3 +13,9 @@ AFNetworking 虽然集成进来,但是没有用到.不用看
 
 欢迎交流.
 
+
+![image](https://github.com/ocswor/BreakPointCacheNetwork/blob/master/测试.gif)
+
+
+
+
